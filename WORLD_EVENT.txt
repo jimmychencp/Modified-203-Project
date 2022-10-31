@@ -1,0 +1,6 @@
+To trigger the event you mouse left click on any locations in the world, it will spawn a portal and the proximity of
+the click location. At the same time a priest will spawn on the bottom left corner of the world. When the event is
+triggered, any fairies in the proximity of the portal will become corrupted and turns in to an evil fairy. The evil
+fairies, tired of replanting trees over and over again seeks to hunt down all the dudes who kept cutting tree. The priest,
+who spawns along with the portal will seek any corrputed fairies and chase them down in the attempt to purify them back
+to normal fairies. The 32x32 versions of the images are way too small so I kept them at original scales.
